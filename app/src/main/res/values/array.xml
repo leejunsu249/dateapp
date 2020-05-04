@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="성별">
+        <item>여성</item>
+        <item>남성</item>
+
+    </string-array>
+
+</resources>

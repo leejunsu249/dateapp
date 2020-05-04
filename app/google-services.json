@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566854722134",
+    "firebase_url": "https://dateapp-a981b.firebaseio.com",
+    "project_id": "dateapp-a981b",
+    "storage_bucket": "dateapp-a981b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566854722134:android:b0e529a68b20a7a02691f7",
+        "android_client_info": {
+          "package_name": "com.tumblr.dateapp.iloveyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566854722134-5m2p0tvs3fvr2e21hkblel4g7vaukniv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tumblr.dateapp.iloveyou",
+            "certificate_hash": "f1b9b5bf598c284ea857c370848ade77c6892b6c"
+          }
+        },
+        {
+          "client_id": "566854722134-u8g1u4853bh9h790noh3ijo15e1bf4ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN5GxXgiJKVYIkIe42pycVtjc8d31aCao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566854722134-u8g1u4853bh9h790noh3ijo15e1bf4ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

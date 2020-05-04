@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ILoveYou</string>
+
+    <string name="profile_updated_text">프로필 업로드 완료</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">설정</string>
+    <string name="action_logout">로그아웃</string>
+
+    <string name="title_activity_settings">설정</string>
+    <string name="title_activity_profile">프로필</string>
+    <string name="title_activity_chat">채팅</string>
+    <string name="title_activity_active_users">근처 사용자</string>
+    <string name="title_activity_online">Online</string>
+
+    <!-- Strings related to user profile -->
+    <string name="prompt_username">이름</string>
+    <string name="prompt_bio">목적지</string>
+    <string name="action_update">업데이트</string>
+    <string name="error_invalid_username">This user name is too long</string>
+    <string name="error_invalid_bio">This is too long</string>
+    <string name="error_invalid_password">비밀번호가 너무 짧습니다</string>
+    <string name="error_different_passwords">비밀번호가 일치하지 않습니다</string>
+    <string name="error_invalid_email">사용할 수 없는 Email입니다</string>
+
+
+    <string name="error_field_required">빈 칸 없이 채워주세요</string>
+
+    <!-- Strings related to user login and registration -->
+    <string name="prompt_login_username">이름</string>
+    <string name="prompt_login_pass">비밀번호</string>
+    <string name="prompt_login_pass_bis">비밀번호 확인</string>
+    <string name="prompt_login_email">이메일</string>
+
+    <string name="action_login">로그인</string>
+    <string name="action_new_account">New account</string>
+
+    <string name="action_register">회원가입</string>
+    <string name="action_existing_account">Existing account</string>
+
+    <!-- Strings related to permissions -->
+    <string name="profile_image_permission">This permission is needed in order to select a profile image</string>
+    <string name="gps_permission">This permission is needed in order to use the map</string>
+    <string name="typeMessage">Send text</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_login">로그인</string>
+    <string name="tab_register">회원가입</string>
+    <string name="tab_map">지도</string>
+    <string name="tab_conversations">Chat</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_notification_channel_id">default</string>
+
+</resources>
